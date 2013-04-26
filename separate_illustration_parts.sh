@@ -1,6 +1,7 @@
 #!/bin/bash
 
 SVG=$1
+SVG=130410_people-01.svg
 
 OUTPUTDIR=illustration_parts
 
