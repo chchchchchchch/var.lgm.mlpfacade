@@ -1,0 +1,87 @@
+&iquest;Por qu&eacute; molestarse con software libre si puedo piratear Abobe?
+Why do you teach us open source tools?
+I don't like GNU/Linux, does that mean I can't use libre graphics tools?
+I'm a developer. Why would I want to collaborate with designers?
+&iquest;Merece la pena desaprender?
+Libre significa que es peor, &iquest;no?
+&iquest;Es como volverse vegetariano?
+But isn't Photoshop way more awesome than GIMP?
+Si los programas privativos son tan malos, &iquest;por qu&eacute; la gente sigue us&aacute;ndolos?
+&iquest;Cu&aacute;ntos manuales tengo que leer antes de empezar?
+What if I am interested in design and not in technology?
+Photoshop already works for me. Why should I use something else?
+&iquest;por qu&eacute; no se ense&ntilde;a el software libre en las escuelas?
+If proprietary programs are so bad, why are people still using them?
+Why develop Free Software if you could be paid for the same work?
+&iquest;A qui&eacute;n debo llamar cuando se rompe el software?
+&iquest;Por qu&eacute; nadie lo utiliza si es tan bueno?
+&iquest;El uso de software libre es menos profesional?
+Soy un dise&ntilde;ador &iquest;Por qu&eacute; iba yo a querer colaborar con los desarrolladores?
+Why do I need so many different programs? I just want one that works!
+&iquest;Por qu&eacute; hay tan pocas mujeres desarrolladoras?
+Free means worse, right?
+&iquest;Cu&aacute;ntos dise&ntilde;adores famosos utilizan software libre?
+&iquest;Merece la pena desaprender?
+&iquest;puedo asistir aunque no tenga ni idea de qu&Eacute; significa software libre?
+&iquest;Qu&eacute; debo hacer cuando me encuentro un error?
+If I want to contribute to Libre Graphics, do I need to code?
+&iquest;Esto no es s&oacute;lo para las personas que tienen demasiado tiempo libre?
+Acabo de descubrir la Gr&aacute;fica libre &iquest;Llego tarde?
+Can you tell from the final design it was made by Free software? If not, what's the point?
+&iquest;Trabajar con software libre significa que tambi&eacute;n uso fuentes libres?
+&iquest;No deber&iacute;an los gobiernos apoyar la Grafica Libre?
+Si soy realmente creativa, no deber&iacute;a importar qu&eacute; herramientas uso
+Why is no one else using this if it is that good?
+How many manuals do I need to read before I can start?
+&iquest;Esto funciona en mi Mac?
+&iquest;Por qu&eacute; no se ense&ntilde;a el software libre en las escuelas?
+Photoshop me funciona &iquest;Por qu&eacute; debo usar otra cosa?
+Libre -- why use such a fancy foreign term?
+Do I need to learn everything again?
+&iquest;Por qu&eacute; tengo tantos programas diferentes? &iexcl;Yo s&oacute;lo quiero uno que funcione!
+What is the point of Free software, if Adobe offers the same 'hackability'?
+Why bother with free software if I can pirate adobe stuff?
+&iquest;Tengo que aprender todo de nuevo?
+Won't people steal my work if I release it under a permissive license?
+Free means bad enough to give away, right?
+Does it matter what software I use, as long as the result is good?
+FLOSS is great for experimentation but not for work.
+Isn't Libre Graphics just for amateurs?
+&iquest;Pero no es Photoshop m&aacute;s impresionante que GIMP?
+Will using Free Software make me look less professional?
+FLOSS es ideal para experimentar, pero no para trabajar
+Does working with Free software mean using Free fonts too?
+Who do I call when the software breaks?
+What do I do when I find a bug?
+Libre fonts are incomplete, otherwise they'd be for sale, right?
+Is this like becoming a vegetarian?
+So now I will design for free too?
+&iquest;Realmente necesito Photoshop para ser un dise&ntilde;ador gr&aacute;fico?
+Why are there so little female developers?
+How can you be busy with free software when there are still people going hungry?
+Will this run on my Mac?
+How many famous designers use open source software?
+Isn't this going to blow over soon?
+Soy un desarrollador &iquest;Por qu&eacute; iba yo a querer colaborar con dise&ntilde;adores?
+Aren't Libre tools just cheaper copies of Adobe?
+&iquest;Puedo asistir aunque no tenga ni idea de qu&eacute; significa el software libre?
+&iquest;Podremos inventar nuevas met&aacute;foras?
+Isn't this just for a really small incrowd?
+Isn't this stuff just for people who have too much free time?
+Shouldn't the government support Libre Graphics?
+&iquest;No robar&iacute;a la gente mi trabajo si le pongo una licencia libre?
+&iquest;Por qu&eacute; pensamos que lo gratis es indefectiblemente de mala calidad?
+I'm a designer. Why would I want to collaborate with developers?
+Las fuentes Libres est&aacute;n incompletas, de lo contrario estar&iacute;an a la venta, &iquest;no?
+Do I really need Photoshop to be a graphic designer?
+&iquest;Qu&eacute; pasa si estoy interesado en el dise&ntilde;o y no en la tecnolog&iacute;a?
+GIMP es como Photoshop, &iquest;verdad?
+If I am really creative, it should not matter what tools I use?
+If I can have an Adobe Suite for free, why bother?
+acabo de descubrir la gr&aacute;fica libre &iquest;llego tarde?
+&iquest;DE VERDAD QUE GIMP ES LO MISMO QUE PHOTOSHOP?
+Will my design look different after all?
+My teacher never heard of Scribus. Are you sure I can use it to do layout?
+&iquest;PODREMOS INVENTAR NUEVAS MET&Aacute;FORAS?
+&iquest;Por qu&eacute; pensamos que lo gratis es indefectiblemente de mala calidad?
+&iquest;No es la Grafica Libre s&oacute;lo para aficionados?
