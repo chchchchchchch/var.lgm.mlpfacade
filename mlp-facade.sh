@@ -3,6 +3,9 @@
 CANVAS=canvas.html
 SLOGANS=slogans.txt
 
+ADDBROWSERS="moz ms o"
+
+
 CSSMOVE=move_bubbles.css
 STEPPX=220
 
@@ -29,6 +32,10 @@ e ()          { echo $1 >> $OUT ;  }
   e "@import 'move_head.css';"
   e "@import 'move_legs.css';"
   e "@import 'move_upperbody.css';"
+   for BROWSER in $ADDBROWSERS
+    do
+       e "@import '"${BROWSER}".css'"
+   done
   e "</style>"
   e "</head>"
   e "<body>"
@@ -124,10 +131,18 @@ DURATION=`expr $PARTNUM \* 10`
 
 OUT=$CANVAS
 e "<div class='illucontainer' "
-e "     style='width: 4000px;
-      -webkit-animation: move_$TYPE ${DURATION}s infinite ease-in-out;
-      -webkit-animation-direction:alternate;
-  '>"
+e "     style='width: 4000px;"
+e "   -webkit-animation: move_$TYPE ${DURATION}s infinite ease-in-out;"
+e "   -webkit-animation-direction:alternate;"
+
+   for BROWSER in $ADDBROWSERS
+    do
+e "   -${BROWSER}-animation: move_$TYPE ${DURATION}s infinite ease-in-out;"
+e "   -${BROWSER}-animation-direction:alternate;"
+   done
+
+e "'>"
+
 
 OUT=$CSSMOVE
 e "@-webkit-keyframes move_$TYPE { "
@@ -176,21 +191,16 @@ e "</body>"
 e "</html>"
 
 
-
-exit 0;
-
-
-
-
-
-
-
-
-
-
-
+for BROWSER in $ADDBROWSERS
+ do
+    rm ${BROWSER}.css
+    sed "s/webkit/$BROWSER/g" `ls *.css | grep -v static.css` >> ${BROWSER}.css
+done
 
 
 
 
 exit 0;
+
+
+
