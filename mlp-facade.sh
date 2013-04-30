@@ -34,7 +34,7 @@ e ()          { echo $1 >> $OUT ;  }
   e "@import 'move_upperbody.css';"
    for BROWSER in $ADDBROWSERS
     do
-       e "@import '"${BROWSER}".css'"
+       e "@import '"${BROWSER}".css';"
    done
   e "</style>"
   e "</head>"
