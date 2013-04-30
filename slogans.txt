@@ -6,7 +6,6 @@ I'm a developer. Why would I want to collaborate with designers?
 Libre significa que es peor, &iquest;no?
 &iquest;Es como volverse vegetariano?
 But isn't Photoshop way more awesome than GIMP?
-Si los programas privativos son tan malos, &iquest;por qu&eacute; la gente sigue us&aacute;ndolos?
 &iquest;Cu&aacute;ntos manuales tengo que leer antes de empezar?
 What if I am interested in design and not in technology?
 Photoshop already works for me. Why should I use something else?
@@ -16,7 +15,6 @@ Why develop Free Software if you could be paid for the same work?
 &iquest;A qui&eacute;n debo llamar cuando se rompe el software?
 &iquest;Por qu&eacute; nadie lo utiliza si es tan bueno?
 &iquest;El uso de software libre es menos profesional?
-Soy un dise&ntilde;ador &iquest;Por qu&eacute; iba yo a querer colaborar con los desarrolladores?
 Why do I need so many different programs? I just want one that works!
 &iquest;Por qu&eacute; hay tan pocas mujeres desarrolladoras?
 Free means worse, right?
@@ -38,7 +36,6 @@ How many manuals do I need to read before I can start?
 Photoshop me funciona &iquest;Por qu&eacute; debo usar otra cosa?
 Libre -- why use such a fancy foreign term?
 Do I need to learn everything again?
-&iquest;Por qu&eacute; tengo tantos programas diferentes? &iexcl;Yo s&oacute;lo quiero uno que funcione!
 What is the point of Free software, if Adobe offers the same 'hackability'?
 Why bother with free software if I can pirate adobe stuff?
 &iquest;Tengo que aprender todo de nuevo?
